@@ -2,18 +2,6 @@
 
 This project is based on the [YOLACT](https://arxiv.org/abs/1904.02689) framework. And please follow the instructions of [YOLACT](https://arxiv.org/abs/1904.02689) before implementing our project.
 
-#### ICCV update (v1.1) released! Check out the ICCV trailer here:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0pMfmo8qfpQ/0.jpg)](https://www.youtube.com/watch?v=0pMfmo8qfpQ)
-
-Read [the changelog](CHANGELOG.md) for details on, well, what changed. Oh, and the paper got updated too with pascal results and an appendix with box mAP.
-
-Some examples from our base model (33.5 fps on a Titan Xp and 29.8 mAP on COCO's `test-dev`):
-
-![Example 0](data/yolact_example_0.png)
-
-![Example 1](data/yolact_example_1.png)
-
-![Example 2](data/yolact_example_2.png)
 
 # Installation
  - Set up a Python3 environment.
