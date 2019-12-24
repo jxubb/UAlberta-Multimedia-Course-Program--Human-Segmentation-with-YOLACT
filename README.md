@@ -88,19 +88,3 @@ See [this nice post by @Amit12690](https://github.com/dbolya/yolact/issues/70#is
 
 
 
-
-# Citation
-If you use YOLACT or this code base in your work, please cite
-```
-@inproceedings{bolya-iccv2019,
-  author    = {Daniel Bolya and Chong Zhou and Fanyi Xiao and Yong Jae Lee},
-  title     = {YOLACT: {Real-time} Instance Segmentation},
-  booktitle = {ICCV},
-  year      = {2019},
-}
-```
-
-
-
-# Contact
-For questions about our paper or code, please contact [Daniel Bolya](mailto:dbolya@ucdavis.edu).
