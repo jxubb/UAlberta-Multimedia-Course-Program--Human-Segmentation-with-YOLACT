@@ -1,14 +1,6 @@
-# **Y**ou **O**nly **L**ook **A**t **C**oefficien**T**s
-```
-    ██╗   ██╗ ██████╗ ██╗      █████╗  ██████╗████████╗
-    ╚██╗ ██╔╝██╔═══██╗██║     ██╔══██╗██╔════╝╚══██╔══╝
-     ╚████╔╝ ██║   ██║██║     ███████║██║        ██║   
-      ╚██╔╝  ██║   ██║██║     ██╔══██║██║        ██║   
-       ██║   ╚██████╔╝███████╗██║  ██║╚██████╗   ██║   
-       ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝ 
-```
+# Human Segmentation with YOLACT
 
-A simple, fully convolutional model for real-time instance segmentation. This is the code for [our paper](https://arxiv.org/abs/1904.02689).
+This project is based on the [YOLACT](https://arxiv.org/abs/1904.02689) framework. And please follow the instructions of [YOLACT](https://arxiv.org/abs/1904.02689) before implementing our project.
 
 #### ICCV update (v1.1) released! Check out the ICCV trailer here:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0pMfmo8qfpQ/0.jpg)](https://www.youtube.com/watch?v=0pMfmo8qfpQ)
