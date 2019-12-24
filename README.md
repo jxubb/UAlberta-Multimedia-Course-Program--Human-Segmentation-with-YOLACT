@@ -1,6 +1,6 @@
 # Human Segmentation with YOLACT
 
-This project is based on the [YOLACT](https://arxiv.org/abs/1904.02689) framework. And please follow the instructions of [YOLACT](https://arxiv.org/abs/1904.02689) before implementing our project.
+This project is based on the [YOLACT](https://arxiv.org/abs/1904.02689) framework. Before implementing this project, please refer to the instruction of [YOLACT](https://arxiv.org/abs/1904.02689) before implementing our project.
 
 
 ## Images
